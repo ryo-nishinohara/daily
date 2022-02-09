@@ -20,22 +20,16 @@
 
 ## Evaluation of the day (from 0 to 100)
 ### Valuation basis
-1. Were you able to complete all tasks? (0~15)
-1. Were you able to develope both personally and mentally? (0~20)
-1. Did you enjoy yourself? Are you happy npow? (0~15)
-1. Do you have gratitude for everything? (0~20)
-1. Do you live with hope? (0~20)
-1. Did you do your best? (0~20)
-### Evaluation
-- Subtotal  
-  1. 
-  1. 
-  1.
-  1.
-  1.
-  1.
-- Total  
-****
+|Evaluation item|Range of score|Score|
+|---------------|--------------|-----|
+|Were you able to complete all tasks?|0~15||
+|Were you able to develope both personally and mentally?|0~20||
+|Did you enjoy yourself? Are you happy npow?|0~15||
+|Do you have gratitude for everything?|0~20||
+|Do you live with hope?|0~20||
+|Did you do your best?|0~20||
+|Total|0~100|****|
+
 ---
 # An additional look back 
 This is an sdditional look back section.
