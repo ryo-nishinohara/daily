@@ -10,7 +10,7 @@
 
 ## What I did today
 
-## Things to do for tomorrow
+## Things to do tomorrow
 
 ## A look back on the day
 - Good points
