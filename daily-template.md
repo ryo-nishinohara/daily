@@ -1,7 +1,13 @@
 # 2022-- daily 
 
 ## Purpose of the daily report
-
+- Enhance my English ability
+  - Make it possible to use crrect English
+  - Output what I've learned
+- Manage my life
+  - Make to-do-list for tomorrow
+  - Review what I did on that day
+ 
 ## What I did today
 
 ## Things to do tomorrow (TO-DO-LIST today)
