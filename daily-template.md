@@ -12,16 +12,9 @@
 
 ## Things to do tomorrow (TO-DO-LIST today)
 - riu_bookstore
-  - like and follow 15min
 - w-share
-  - understand how to operate database
-  - like and follow on twitter
-  - post on twitter
 - study abroad
-  - study english 1h
-  - study germany 1h
-- others
-  - go workout
+- ryo nishinohara
 
 ## A look back on the day
 - Good points
