@@ -14,7 +14,6 @@
 ## A look back on the day（毎日勝敗をつけること）
 - Good points
 - Bad points
-### riu_bookstore
 ### W-SHARE
 ### ryo nishinohara
 ### study abroad
