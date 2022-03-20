@@ -4,7 +4,6 @@
 ### 全体
 
 
-### riu_bookstore
 ### W-SHARE
 ### ryo nishinohara
 ### study abroad
