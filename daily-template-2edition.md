@@ -8,11 +8,17 @@
 ### ryo nishinohara
 ### study abroad
 ### キャリア選択
+
+---
 ## What I did today
 
 ## A look back on the day（毎日勝敗をつけること）
-- Good points
-- Bad points
+### 着地
+### 原因
+### 対策
+
+### よかった点
+
 ### W-SHARE
 ### ryo nishinohara
 ### study abroad
